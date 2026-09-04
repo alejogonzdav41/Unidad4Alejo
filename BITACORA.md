@@ -11,3 +11,4 @@
 ## Para evidenciar en GitHub
 
 Antes de entregar, ejecuta la experiencia con `npm run dev`, toma una captura en caos y otra en sincronización, y realiza un commit descriptivo desde tu flujo habitual de Git. Esta bitácora documenta el alcance técnico sin alterar la configuración del repositorio.
+chajaja
